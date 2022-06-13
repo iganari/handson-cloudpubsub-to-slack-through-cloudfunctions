@@ -1,4 +1,4 @@
-# Pub/Sub に来たデータを Slack の特定のチャンネルに投稿する
+# Handson On Cloud Pub/Sub to Slack through Cloud Functions
 
 ## 概要
 
