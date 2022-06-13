@@ -1,4 +1,4 @@
-# Handson On Cloud Pub/Sub to Slack through Cloud Functions
+# Handson On Pub/Sub to Slack through Cloud Functions
 
 ## 概要
 
